@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Muntasir! 👋
 
-<!--
-**Muntasir18/Muntasir18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Data Analyst** passionate about data storytelling, turning data into actionable insights and predictive analytics. I enjoy bridging the gap between raw data and business decisions.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL, MATLAB, BASH
+- **Data Visualization:** Power BI, Matplotlib, Seaborn
+- **Machine Learning:** Regression, Classification, Clustering, EDA (Exploratory Data Analysis)
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, Jupyter Notebooks, PyCharm, Office (Excel - ENI Advanced)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Featured Projects
+- **[Nom du Projet 1]**: A Machine Learning model to predict [Objectif].
+- **[Nom du Projet 2]**: SQL & Power BI dashboard for [Secteur, ex: Sales] analysis.
+
+---
+## 📬 Connect with me
+- **LinkedIn:** [Muntasir CALLACHAND](www.linkedin.com/in/muntasir-callachand-2623291b3)
