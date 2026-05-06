@@ -15,4 +15,5 @@ I am a **Data Analyst** passionate about data storytelling, turning data into ac
 
 ---
 ## 📬 Connect with me
+- **Mail:** muntasir@hotmail.fr
 - **LinkedIn:** www.linkedin.com/in/muntasir-callachand-2623291b3
