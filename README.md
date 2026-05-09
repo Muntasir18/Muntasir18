@@ -21,7 +21,7 @@ I am a **Data Analyst** passionate about data storytelling, turning data into ac
 
 ---
 
-### 📂 More Projects
+### More Projects
 Check out my [Repositories](https://github.com/Muntasir18?tab=repositories) for other case studies.
 
 ### My Goal
