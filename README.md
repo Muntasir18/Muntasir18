@@ -1,15 +1,15 @@
-# Hi, I'm Muntasir! 👋
+# Hi, I'm Muntasir! 
 
 I am a **Data Analyst** passionate about data storytelling, turning data into actionable insights and predictive analytics. I enjoy bridging the gap between raw data and business decisions.
 
-### 🛠 Tech Stack
+### Tech Stack
 - **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL, MATLAB, BASH
 - **Data Visualization:** Power BI, Matplotlib, Seaborn
 - **Machine Learning:** Regression, Classification, Clustering, EDA (Exploratory Data Analysis)
 - **Databases:** MySQL, PostgreSQL
 - **Tools:** Git, Jupyter Notebooks, PyCharm, Office (Excel - ENI Advanced)
 
-### 📈 Featured Projects
+### Featured Projects
 1. [BlinkIT Grocery Sales - End-to-End Analysis](https://github.com/Muntasir18/BlinkIT-Sales-Analysis-End-to-End)
 *A full data pipeline project: from raw data cleaning and EDA with **Python (Pandas)** to metric validation via **SQL** and final interactive visualization in **Power BI**. Analyzed $1.2M in sales to identify key revenue drivers such as outlet size and consumer health preferences.*
 
@@ -24,10 +24,10 @@ I am a **Data Analyst** passionate about data storytelling, turning data into ac
 ### 📂 More Projects
 Check out my [Repositories](https://github.com/Muntasir18?tab=repositories) for other case studies.
 
-### 🎯 My Goal
+### My Goal
 Currently looking for a position as a Data Analyst
 
 ---
-## 📬 Connect with me
+## Connect with me
 - **Mail:** muntasir@hotmail.fr
 - **LinkedIn:** www.linkedin.com/in/muntasir-callachand-2623291b3
